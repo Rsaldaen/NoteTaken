@@ -1,4 +1,4 @@
-# Note_Taken
+# NoteTaken
 Note Taker
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
